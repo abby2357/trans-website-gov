@@ -1,0 +1,44 @@
+#contents-table {
+    list-style-type: none;
+}
+
+.court-cases {
+    list-style-type: none;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: antiquewhite;
+}
+
+#top-links {
+    background-color:ivory;
+    ul {
+        list-style: none;
+        display: flex;
+        li {
+            margin-right: 60px;
+            a {
+                color: black;
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+.policy-list {
+    list-style-type: none;
+}
+
+.exec-order-sections {
+    list-style-type: none;
+}
+
+#source-list {
+    list-style-type: none;
+    li {
+        margin-bottom: 20px;
+        margin-left: 50px;
+    }
+}
